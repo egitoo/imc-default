@@ -5,7 +5,8 @@ const urls = [
   '/index.html',
   '/assets/css/bootstrap.min.css',
   '/assets/images/delete.svg',
-  '/assets/js/functions.js'
+  '/assets/js/functions.js',
+  '/assets/images/icons/icon-512x512.png'
 ]
 
 // Instalando o cache
